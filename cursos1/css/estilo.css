@@ -177,3 +177,60 @@ height:500px;
 background-color: red;
 
 }
+
+
+
+#contenedor-footer{
+
+display: flex;
+width: 100%;
+height:400px ;
+
+
+}
+
+#contenedor-footer-img {
+
+background-color:red;
+width: 30%;
+}
+
+#contenedor-footer-informacion {
+  background-color:blue;
+  width: 70%;
+  padding: 30px;
+  
+}
+
+
+#contenedor-footer-informacion-contacto{
+
+
+background-color: black;
+width: 33.3%;
+
+}
+
+
+#contenedor-footer-informacion-soporte{
+
+
+  background-color: white;
+  width: 33.3%;
+  
+  }
+
+  #contenedor-footer-informacion-comunidad{
+
+
+    background-color: green;
+    width: 33.3%;
+    
+    }
+
+    #contenedor-informacion{
+
+display: flex;
+
+height: 100%;
+    }
