@@ -94,7 +94,7 @@ transition:  .2s linear;
   -moz-box-shadow: 6px 14px 42px -21px rgba(0,0,0,0.46);
   box-shadow: 6px 14px 42px -21px rgba(0,0,0,0.46);
   transform: translateY(-3%);
-  opacity: 90%;
+  
 }
 
 hr{
